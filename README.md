@@ -1,1 +1,1 @@
-# PHP_Native-Sistem_Informasi_Stock_Barang
+Sistem Informasi Stock Barang
